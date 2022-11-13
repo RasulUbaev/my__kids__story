@@ -348,6 +348,11 @@
   display: flex;
   gap: 60px;
 }
+.footer__container .footer__head__ul li {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+}
 .footer__container .footer__head__ul .bold {
   font-weight: bold;
 }
@@ -359,4 +364,9 @@
   font-weight: 500;
   font-size: 12px;
   line-height: 15px;
+}
+.footer .footer__yellow {
+  position: relative;
+  left: 1350px;
+  top: -200px;
 }/*# sourceMappingURL=style.css.map */

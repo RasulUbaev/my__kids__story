@@ -381,6 +381,11 @@
     }.footer__head__ul {
         display: flex;
         gap: 60px;
+        li {
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 15px;
+        }
         .bold {
             font-weight: bold;
         }
@@ -395,5 +400,9 @@
             line-height: 15px;
         }
     }     
-    
+    .footer__yellow {
+        position: relative;
+        left: 1350px;
+        top: -200px;
+    }
 }
